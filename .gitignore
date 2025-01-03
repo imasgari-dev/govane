@@ -23,3 +23,35 @@ go.work.sum
 
 # env file
 .env
+
+# IDE files
+.idea/
+.vs/
+.vscode/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Emacs
+*~
+
+# Vim
+*.swp
+*.swo
+.vimrc
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+
+# Linux-specific files
+*~
+
+# Miscellaneous
+*.log
+*.bak
+*.tmp
